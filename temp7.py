@@ -2,7 +2,6 @@
 """
 Created on Tue Jun 23 16:27:30 2015
 
-@author: HenryII
 """
 # test case one
 balance = 3329
